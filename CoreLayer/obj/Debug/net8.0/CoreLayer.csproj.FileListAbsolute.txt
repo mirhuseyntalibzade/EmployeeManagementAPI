@@ -1,0 +1,11 @@
+C:\Users\My Computer\source\repos\EmployeeManagement\CoreLayer\bin\Debug\net8.0\CoreLayer.deps.json
+C:\Users\My Computer\source\repos\EmployeeManagement\CoreLayer\bin\Debug\net8.0\CoreLayer.dll
+C:\Users\My Computer\source\repos\EmployeeManagement\CoreLayer\bin\Debug\net8.0\CoreLayer.pdb
+C:\Users\My Computer\source\repos\EmployeeManagement\CoreLayer\obj\Debug\net8.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Computer\source\repos\EmployeeManagement\CoreLayer\obj\Debug\net8.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\My Computer\source\repos\EmployeeManagement\CoreLayer\obj\Debug\net8.0\CoreLayer.AssemblyInfo.cs
+C:\Users\My Computer\source\repos\EmployeeManagement\CoreLayer\obj\Debug\net8.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\source\repos\EmployeeManagement\CoreLayer\obj\Debug\net8.0\CoreLayer.dll
+C:\Users\My Computer\source\repos\EmployeeManagement\CoreLayer\obj\Debug\net8.0\refint\CoreLayer.dll
+C:\Users\My Computer\source\repos\EmployeeManagement\CoreLayer\obj\Debug\net8.0\CoreLayer.pdb
+C:\Users\My Computer\source\repos\EmployeeManagement\CoreLayer\obj\Debug\net8.0\ref\CoreLayer.dll

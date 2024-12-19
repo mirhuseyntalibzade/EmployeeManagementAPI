@@ -1,0 +1,17 @@
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\bin\Debug\net8.0\CoreLayer.dll
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\bin\Debug\net8.0\CoreLayer.pdb
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\My Computer\source\repos\EmployeeManagement\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
